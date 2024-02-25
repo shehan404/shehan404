@@ -4,6 +4,7 @@
 - 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
 
@@ -30,7 +31,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git"/>
 
 
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" title="Arduino"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" title="Arduino"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" title="MATLAB"/>
 
