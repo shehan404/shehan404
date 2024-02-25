@@ -2,7 +2,7 @@
 <h3 align="center">Electrical Engineering Undergraduate</h3>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=03F7FF&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=0089FF&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 
 <h2 align="left">About me</h2>
