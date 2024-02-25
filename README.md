@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shehan Arampola</h1>
-
-- 📫 How to reach me: **shehan.arampola@gmail.com**
-- 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
+<h3 align="center">Electrical Engineering Undergraduate</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=2000&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+
+<h2 align="left">About me</h2>
+<p align="left">
+- 📫 How to reach me: **shehan.arampola@gmail.com**
+- 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -11,7 +15,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="TensorFlow"/>
-
 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" title="openCV"/>
 
@@ -29,18 +32,13 @@
 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" title="Azure"/>
 
-
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git"/>
-
 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" title="Arduino"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" title="MATLAB"/>
 
-
-
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
