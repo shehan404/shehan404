@@ -56,12 +56,10 @@
 <br>
 <h2 align="left">📊 Checkout my statatics</h2>
 
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehan404&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shehan404" />
-
 <br>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shehan404&show_icons=true&locale=en&theme=tokyonight" alt="shehan404" />
-
 <br>
-
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shehan404&&theme=tokyonight" alt="shehan404" />
+</p>
