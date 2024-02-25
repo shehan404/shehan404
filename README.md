@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shehan Arampola</h1>
 <h3 align="center">Electrical Engineering Undergraduate</h3>
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=0089FF&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-
 
 <h2 align="left">About me</h2>
 
+- 📚 I am an Undergraduate at University of Moratuwa
+- 💪 Problem Solver, Self-learner, Resposible and Self-motivated
+- 🎯 Focusing on developing knowledge and skills in Tech
+- ⭐ Interested in Machine Learning, Deep Learning, Software Engineering, DevOps
+- 😉 Eager to Expand Knowledge 
 - 📫 How to reach me: **shehan.arampola@gmail.com**
 - 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
-
+- 😇 I Love Coding💻, Traveling🌍, Photography📸
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 
