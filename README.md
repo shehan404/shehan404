@@ -4,10 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=2000&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <h2 align="left">About me</h2>
-<p align="left">
+
 - 📫 How to reach me: **shehan.arampola@gmail.com**
 - 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
