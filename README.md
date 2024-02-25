@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shehan Arampola</h1>
-- 📫 How to reach me **shehan.arampola@gmail.com**
 
+- 📫 How to reach me **shehan.arampola@gmail.com**
 - 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
