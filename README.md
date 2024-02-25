@@ -3,19 +3,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=0089FF&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-<h2 align="left">About me</h2>
+<h2 align="left">🙋‍♂️ About me</h2>
 
 - 📚 I am an Undergraduate at the University of Moratuwa
 - 💪 Problem Solver, Self-learner, Responsible and Self-motivated
 - 🎯 Focusing on developing knowledge and skills in Tech
 - ⭐ Interested in Machine Learning, Deep Learning, Software Engineering, DevOps
-- 😉 Eager to expand knowledge 
+- 😉 Eager to expand knowledge
 - 📫 How to reach me: **shehan.arampola@gmail.com**
 - 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
 - 😇 I Love Coding💻, Traveling🌍, Photography📸
 
 <br>
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">⚙️ Languages and Tools</h2>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
@@ -47,19 +47,17 @@
 </p>
 
 <br>
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🤝 Connect with me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/shehan-arampola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan arampola" height="30" width="40" /></a><a href="https://instagram.com/shehan_arampola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_arampola" height="30" width="40" /></a><a href="https://www.facebook.com/shehan.madusha.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan arampola" height="30" width="40" /></a>
 
 </p>
 
 <br>
-<h2 align="left">Checkout my statatics:</h2>
+<h2 align="left">📊 Checkout my statatics</h2>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehan404&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shehan404" />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehan404&show_icons=true&locale=en&theme=tokyonight" alt="shehan404" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehan404&show_icons=true&locale=en&theme=tokyonight" alt="shehan404" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehan404&&theme=tokyonight" alt="shehan404" />
-
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shehan404&&theme=tokyonight" alt="shehan404" />
