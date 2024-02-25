@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shehan Arampola</h1>
 <h3 align="center">Electrical Engineering Undergraduate</h3>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=2000&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=03F7FF&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
 <h2 align="left">About me</h2>
 
 - 📫 How to reach me: **shehan.arampola@gmail.com**
 - 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
@@ -39,7 +41,7 @@
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/shehan-arampola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan arampola" height="30" width="40" /></a><a href="https://instagram.com/shehan_arampola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_arampola" height="30" width="40" /></a><a href="https://www.facebook.com/shehan.madusha.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan arampola" height="30" width="40" /></a>
 
