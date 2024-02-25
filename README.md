@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehan Arampola</h1>
 <h3 align="center">Electrical Engineering Undergraduate</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=2000&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=2000&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <h2 align="left">About me</h2>
 
