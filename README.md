@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shehan Arampola</h1>
-<h3 align="center">Electrical Engineering Undergraduate</h3>
+<h3 align="center">Final Year Electrical Engineering Undergraduate</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=0089FF&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2278F7&random=false&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
 <h2 align="left">🙋‍♂️ About me</h2>
 
 - 📚 I am an Undergraduate at the University of Moratuwa
 - 💪 Problem Solver, Self-learner, Responsible and Self-motivated
-- 🎯 Focusing on developing knowledge and skills in Tech
+- 🎯 Focusing on developing the knowledge and skills in Tech
 - ⭐ Interested in Machine Learning, Deep Learning, Software Engineering, DevOps
-- 😉 Eager to expand knowledge
+- 🚀 Eager to expand my knowledge
 - 📫 How to reach me: **shehan.arampola@gmail.com**
 - 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
 - 😇 I Love Coding💻, Traveling🌍, Photography📸
@@ -43,6 +43,9 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" title="Arduino"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" title="MATLAB"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/270px-Processing_2021_logo.svg.png" alt="Processing" width="40" height="40" title="Processing"/>
+
 
 </p>
 
