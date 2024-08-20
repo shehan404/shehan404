@@ -1,30 +1,43 @@
 <h1 align="center">Hi 👋, I'm Shehan Arampola</h1>
-<h3 align="center">Final Year Electrical Engineering Undergraduate</h3>
+<h3 align="center">A DevOps Enthusiast</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2278F7&random=false&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
 <h2 align="left">🙋‍♂️ About me</h2>
 
-- 📚 I am an Undergraduate at the University of Moratuwa
+- 📚 I am a fresh graduate from the University of Moratuwa
 - 💪 Problem Solver, Self-learner, Responsible and Self-motivated
 - 🎯 Focusing on developing the knowledge and skills in Tech
-- ⭐ Interested in Machine Learning, Deep Learning, Software Engineering, DevOps
+- ⭐ Interested in DevOps, Cloud technologies, Automation
 - 🚀 Eager to expand my knowledge
 - 📫 How to reach me: **shehan.arampola@gmail.com**
-- 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1KPGpH0bIgIIL98d1mZAJyNWSLSM98JDJ/view?usp=sharing)
 - 😇 I Love Coding💻, Traveling🌍, Photography📸
 
 <br>
-<h2 align="left">⚙️ Languages and Tools</h2>
+<h2 align="left">⚙️ Technologies</h2>
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" title="AWS"/>
 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" title="Azure"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" title="Docker"/>
 
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40" title="Ansible"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" title="Kubernetes"/>
+
+<img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" alt="Terraform" width="40" height="40" title="Terraform"/>
+
+<img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="40" height="40" title="Linux"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40" height="55" title="Jenkins"/>
+
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="Argo CD" width="40" height="55" title="Argo CD"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+
+<!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" title="Azure"/> -->
+
+<!-- <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40" title="Ansible"/> -->
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git"/>
 
