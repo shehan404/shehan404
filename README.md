@@ -5,7 +5,8 @@
 
 <h2 align="left">🙋‍♂️ About me</h2>
 
-- 📚 I am a fresh graduate from the University of Moratuwa
+- ☁ Associate Cloud Engineer
+- 📚 Graduated with a B.Sc. Engineering (Hons) degree from the University of Moratuwa
 - 💪 Problem Solver, Self-learner, Responsible and Self-motivated
 - 🎯 Focusing on developing the knowledge and skills in Tech
 - ⭐ Interested in DevOps, Cloud technologies, Automation
